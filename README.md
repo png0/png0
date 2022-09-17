@@ -25,7 +25,7 @@
 <br>
 <br>
 <br>
-<hr>
+<h1></h1>
 <h2 align="center">Contact</h2>
 
 <p align="center">
