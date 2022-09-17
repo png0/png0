@@ -26,7 +26,7 @@
 <br>
 <br>
 <h1></h1>
-<h2 align="center">Contact</h2>
+<h2 align="center">Connect</h2>
 
 <p align="center">
   <img alt="Discord" src="https://img.shields.io/badge/Discord-png0%232308-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'">
